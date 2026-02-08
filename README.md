@@ -23,8 +23,8 @@ npm run dev
 
 ```
 
-
-Visit `http://localhost:3000` to start drafting.
+Note: Just export your lead list as a CSV and upload—the app handles the rest.
+Visit `http://localhost:3000` to start drafting. 
 
 ---
 
